@@ -29,6 +29,11 @@ Bilgisayar Programcılığı
 - Ürün tanıtımı
 - Stok takibi
 - Mağaza düzeni
+  **Özdemirler Özel Mercedes Servis**
+-Arabalara cihaz takıp tanıtım sorun bulup tamir ve yazılım atma
+-Çalışma süresi hala devam etmekte
+
+  
 
 ---
 
